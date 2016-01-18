@@ -7,11 +7,11 @@ color:
     - '#B86058'
     - '#E8E0C8'
   brandStrength: 0.027785
-  lightness: 0.513971
+  lightness: 0.51397
   rhythmicContrast: 0.669877
-  saturation: 0.212586
+  saturation: 0.326013
 cta: {}
-layout_spectrum: 0.671452
+layout_spectrum: 0.65456
 name: chefjohnjoleary
 opengraph: {}
 purpose: {}
