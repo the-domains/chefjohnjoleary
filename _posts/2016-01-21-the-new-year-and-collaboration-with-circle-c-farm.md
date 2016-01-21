@@ -6,20 +6,21 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'winter, chicken, lamb'
-datePublished: '2016-01-21T02:32:12.505Z'
-dateModified: '2016-01-21T02:31:53.537Z'
+datePublished: '2016-01-21T03:02:48.278Z'
+dateModified: '2016-01-21T02:58:07.069Z'
 title: 'The New Year & Collaboration with Circle C Farm'
 author: []
+sourcePath: _posts/2016-01-21-the-new-year-and-collaboration-with-circle-c-farm.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-21-the-new-year-and-collaboration-with-circle-c-farm.md
-published: true
 url: the-new-year-and-collaboration-with-circle-c-farm/index.html
 _type: Article
 
 ---
 Halfway through the first month of the new year, it feels great to celebrate my friends at Circle C Farm! Keep up the awesome work! I will save my reminiscing of 2015 for another time. The project of 2016 to meet new farmers, visit new places, meet new people, and develop new opportunities to support what is local and sustainable. The whirlwind has begun and I am excited where it will lead and look forward to documenting the journey every step of the way. To all I say cheers & lets feast on the bounty!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74c99c53-c634-4f35-8bfa-c0f46634f874.jpg)
