@@ -3,21 +3,21 @@ inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-27T17:27:45.865Z'
-dateModified: '2016-01-27T17:23:58.205Z'
+datePublished: '2016-01-27T17:30:01.172Z'
+dateModified: '2016-01-27T17:29:57.733Z'
 title: 'Cook, Eat, Love'
 author: []
+sourcePath: _posts/2016-01-27-cook-eat-love.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-27-cook-eat-love.md
-published: true
 _type: Blurb
 
 ---
