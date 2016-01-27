@@ -7,7 +7,7 @@ color:
     - '#004252'
     - '#387200'
   brandStrength: 0.19679
-  lightness: 0.34375
+  lightness: 1
   rhythmicContrast: 0
   saturation: 0.1875
 cta: {}
