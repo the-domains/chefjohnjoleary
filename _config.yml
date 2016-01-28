@@ -7,9 +7,9 @@ color:
     - '#004252'
     - '#387200'
   brandStrength: 0.075168
-  lightness: 1
-  rhythmicContrast: 0
-  saturation: 0.1875
+  lightness: 0.507601
+  rhythmicContrast: 0.499155
+  saturation: 0.506756
 cta: {}
 layout_spectrum: 1
 name: chefjohnjoleary
