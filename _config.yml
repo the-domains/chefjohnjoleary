@@ -1,4 +1,19 @@
-analytics: {}
+name: chefjohnjoleary
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.25181
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#fefefe'
@@ -7,13 +22,10 @@ color:
     - '#004252'
     - '#387200'
   brandStrength: 0.19679
-  lightness: 0.497466
-  rhythmicContrast: 0
+  lightness: 0.375
   saturation: 0.1875
-cta: {}
-layout_spectrum: 1
-name: chefjohnjoleary
-opengraph: {}
+  rhythmicContrast: 0
 purpose:
-  - {}
-typography_spectrum: 0.25181
+  - name: null
+    item: null
+    url: null
