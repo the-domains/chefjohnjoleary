@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[chefjohnjoleary]]></title>
-        <description><![CDATA[chefjohnjoleary]]></description>
-        <link>https://thegrid.ai/chefjohnjoleary/</link>
+        <title><![CDATA[Sour, Spicy, Funky]]></title>
+        <description><![CDATA[Sour, Spicy, Funky]]></description>
+        <link>http://chefjohnjoleary.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 03:56:29 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/chefjohnjoleary/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jul 2016 06:07:16 GMT</lastBuildDate>
+        <atom:link href="http://chefjohnjoleary.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c4a2c01-cf32-4586-b4b2-d9017a722782.jpg" alt="Fruit of the sea">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c4a2c01-cf32-4586-b4b2-d9017a722782.jpg</link>
+            <guid isPermaLink="false">c77a6984-0ac0-4786-87f3-2be0ded3eeae</guid>
+            <pubDate>Sun, 17 Jul 2016 06:06:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b801f53-3973-4cf6-8f70-c5e46a3b32e2.JPG">]]></description>
-            <link>https://thegrid.ai/chefjohnjoleary/1cbefaea-5743-4a31-8f33-18ff4a4834ae/index.html</link>
+            <link>http://chefjohnjoleary.com/1cbefaea-5743-4a31-8f33-18ff4a4834ae/index.html</link>
             <guid isPermaLink="false">1cbefaea-5743-4a31-8f33-18ff4a4834ae</guid>
             <pubDate>Wed, 27 Jan 2016 16:31:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb4e5727-24b2-4b79-87a0-b27588026879.JPG">]]></description>
-            <link>https://thegrid.ai/chefjohnjoleary/0ccd62d7-912f-4c06-aaac-9a6ec94caaf0/index.html</link>
+            <link>http://chefjohnjoleary.com/0ccd62d7-912f-4c06-aaac-9a6ec94caaf0/index.html</link>
             <guid isPermaLink="false">0ccd62d7-912f-4c06-aaac-9a6ec94caaf0</guid>
             <pubDate>Wed, 27 Jan 2016 16:02:40 GMT</pubDate>
         </item>
@@ -29,8 +36,8 @@
         </item>
         <item>
             <title><![CDATA[The New Year & Collaboration with Circle C Farm]]></title>
-            <description><![CDATA[<article><h1>The New Year & Collaboration with Circle C Farm</h1><p>Halfway through the first month of the new year, it feels great to celebrate my friends at Circle C Farm! Keep up the awesome work! I will save my reminiscing of 2015 for another time. The project of 2016 is to meet new farmers, visit new places, meet new people, and develop new opportunities to support what is local and sustainable. The whirlwind has begun and I am excited where it will lead and look forward to documenting the journey every step of the way. To all I say cheers & lets feast on the bounty!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79d05ac388985027356c78d7e9395d0ca47d761e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/chefjohnjoleary/the-new-year-and-collaboration-with-circle-c-farm/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/611603d3-447d-4d6c-9eb2-f6523b4fe8b8.jpg">]]></description>
+            <link>http://chefjohnjoleary.com/the-new-year-and-collaboration-with-circle-c-farm/index.html</link>
             <guid isPermaLink="false">001f6608-568f-4153-805a-c4cea61b64aa</guid>
             <pubDate>Thu, 21 Jan 2016 03:05:24 GMT</pubDate>
         </item>
