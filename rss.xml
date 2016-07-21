@@ -4,8 +4,15 @@
         <description><![CDATA[Sour, Spicy, Funky]]></description>
         <link>http://chefjohnjoleary.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 01:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 01:10:47 GMT</lastBuildDate>
         <atom:link href="http://chefjohnjoleary.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9b6b4a49e2e96edc3991e60784eca26e/croprotate.jpg?cropheight=1088&cropwidth=1327&degrees=0&input=https://the-grid-user-content.s3-us-west-2.amazonaws.com/5104dfd7-0a82-4b20-a168-997bfc031250.jpg&x=0&y=0" alt="Sea Bass &amp; Tomato Essence ">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/34a124a6-1001-4a07-95d1-d0e959a4ec90.jpg</link>
+            <guid isPermaLink="false">80eef4b2-6776-4a49-97d7-bea33967363e</guid>
+            <pubDate>Thu, 21 Jul 2016 01:10:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7817e3c-b7d5-4a86-b9ae-ccc5f0557750.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://photos.google.com/photo/AF1QipM7ss8p7FXfT-VrSq9i7lbZrqgXd4KGSNLMLCt_</link>
             <guid isPermaLink="false">c4fed041-c150-46cf-a1ac-e566a2dd84dd</guid>
             <pubDate>Wed, 27 Jan 2016 15:48:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The New Year & Collaboration with Circle C Farm]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/611603d3-447d-4d6c-9eb2-f6523b4fe8b8.jpg">]]></description>
-            <link>http://chefjohnjoleary.com/the-new-year-and-collaboration-with-circle-c-farm/index.html</link>
-            <guid isPermaLink="false">001f6608-568f-4153-805a-c4cea61b64aa</guid>
-            <pubDate>Thu, 21 Jan 2016 03:05:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
