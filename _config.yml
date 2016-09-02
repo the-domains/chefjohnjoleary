@@ -1,4 +1,4 @@
-name: "Chef John J. O'Leary"
+name: Chef John J. O'Leary
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.99785
@@ -17,16 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefefe'
-    - '#317ec2'
-    - '#001400'
-    - '#004252'
-    - '#387200'
-  brandStrength: 0.076858
-  lightness: 1
+    - '#010101'
+    - '#ffffff'
+    - '#0093ff'
+    - '#c10000'
+    - '#787818'
+  brandStrength: 0.5
+  lightness: 0.75
   saturation: 0.1875
   rhythmicContrast: 0.5
-purpose:
-  - name: null
-    item: null
-    url: null
+purpose: []
